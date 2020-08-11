@@ -1,3 +1,5 @@
 # Ignore all config files
-*config.py
+config.py
+.DS_Store
+
 
