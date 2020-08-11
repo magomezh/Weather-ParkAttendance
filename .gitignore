@@ -1,5 +1,5 @@
 # Ignore all config files
 config.py
 .DS_Store
-
+.ipynb_checkpoints
 
