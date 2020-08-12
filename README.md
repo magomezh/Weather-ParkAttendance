@@ -8,7 +8,7 @@ How does weather impact attendance at Theme Park, Water Park and Acquarium Attra
 ## Data Source
 * Obtained Historical Weather data (2015-2019) from WorldWeather Online API [WorldWeather Online API](https://www.worldweatheronline.com/developer/).
 
-* Reviewed 5 year (2015-2019) attendance data (csv file) from 6 attractions in USA:
+* Reviewed 5 year (2015-2019) attendance data from 6 attractions in USA [Attractions](https://www.hfecorp.com/our-businesses/):
     - Aquariums: Adventure Acquarium and Newport Aquarium
     - Theme Parks: Dollywood and Silver Dollar City
     - Water Parks: Dollywood Splash Country and White Water
