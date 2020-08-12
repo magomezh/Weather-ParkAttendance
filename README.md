@@ -28,8 +28,8 @@ Matplotlib, Python, Jupyter Lab
 
 ## Findings
 
-* Charts showing annual attendance plotted by year shown against % of operating days with precipitation impact.
-* Plotted with different scales sharing the same X axis to be able to display in millions of attendance and the % of precipitation
+* Charts showing annual attendance plotted by year shown against percentage of operating days with precipitation impact.
+* Displaying attendance in millions and precipitation in percentage, using the twinx method,to display twin Axes object that shares same x-axis (Year).  
 
 ### Aquariums
 
