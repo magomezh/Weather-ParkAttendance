@@ -14,7 +14,7 @@ How does weather impact attendance at Theme Park, Water Park and Acquarium Attra
     - Water Parks: Dollywood Splash Country and White Water
 
 ## Tools Used
-Matplotlib, Python, Jupyter Lab
+Matplotlib, Python, WorldWeather Online API 
 
 ## Methodology
 * Gathered historical weather data from WorldWeather Online API, and compared attendance on each day to the weather data of that day.
