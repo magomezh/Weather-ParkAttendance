@@ -6,7 +6,7 @@
 How does weather impact attendance at Theme Park, Water Park and Acquarium Attractions?
 
 ## Data Source
-* Obtained Historical Weather data (2015-2019) from WorldWeather Online API [WorldWeather Online API](https://www.worldweatheronline.com/developer/).
+* Pulled Historical Weather data (2015-2019) from WorldWeather Online API [WorldWeather Online API](https://www.worldweatheronline.com/developer/).
 
 * Reviewed 5 year (2015-2019) attendance data from 6 attractions in USA [Attractions](https://www.hfecorp.com/our-businesses/):
     - Aquariums: Adventure Acquarium and Newport Aquarium
