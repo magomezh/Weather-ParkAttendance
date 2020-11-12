@@ -29,7 +29,7 @@ Matplotlib, Python, WorldWeather Online API
 ## Findings
 
 * Charts showing annual attendance plotted by year shown against percentage of operating days with precipitation impact.
-* Displaying attendance in millions and precipitation in percentage, using the twinx method to show twin Axes object that shares same x-axis (Year).  
+* Displaying attendance and precipitation percentage, using the twinx method to show twin Axes object that shares same x-axis (Year).  
 
 ### Aquariums
 
